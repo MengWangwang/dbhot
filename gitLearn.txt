@@ -13,5 +13,7 @@ git的安装：
 git init：初始化
 3、管理 
 检查文件：git status
-管理文件：git add gitLearn.txt
+管理某个文件：git add gitLearn.txt
+管理所有文件：git add .
 4、生成版本
+git commit -m 'v1'
